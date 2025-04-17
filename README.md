@@ -1,12 +1,31 @@
-# My-learning-journey-for-HTML-and-CSS
+# 📚 HTML & CSS Study Journal
 
-Welcome to my self-study journey in HTML and CSS
+This repository documents my self-paced journey into learning **HTML and CSS**.  
+I’m using free online resources, hands-on practice, and ChatGPT (my AI study buddy!) to understand core web development concepts.
 
-I'm learning how to build accessible and beautiful websites from scratch using semantic HTML and modern CSS techniques.
+---
 
+## 🗂️ Structure
 
-Goals
-- Understand the structure and syntax of HTML5
-- Learn CSS fundamentals
-- Create small projects to practice concepts
-- Document everything I learn
+- `/notes/` – Weekly notes, short summaries, and code examples
+- `/projects/` – Mini projects & practice files
+
+---
+
+## 📅 Weekly Progress
+
+1- HTML document, media, tables, forms, lists
+
+---
+
+## 📚 Resources I’m Using
+- W3Schools
+- YouTube
+- **ChatGPT** 💬
+
+---
+
+## 🎯 Goals
+- Understand HTML/CSS fundamentals
+- Build a personal webpage
+- Practice daily & track my learning here
